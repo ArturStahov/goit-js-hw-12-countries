@@ -15,8 +15,6 @@
 - SCSS
 
 ### plugins used :
-
-- modal dialogs https://www.npmjs.com/package/micromodal
 - https://sciactive.com/pnotify/
 - https://restcountries.eu/
 - https://www.npmjs.com/package/lodash.debounce
