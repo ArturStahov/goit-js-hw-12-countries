@@ -1,0 +1,13 @@
+.logo-link {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.logo-text {
+  font-family: $logo-deco-font;
+  @include font-settings(4rem, 1.2, 700, $logo-text-color);
+}
+
+.logo-ico {
+  margin-right: 10px;
+}

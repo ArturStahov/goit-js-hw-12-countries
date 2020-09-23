@@ -1,0 +1,25 @@
+@import 'normalize';
+@import 'bootstrap-grid';
+@import './helpers/variables';
+@import './helpers/mixins';
+
+@import 'fonts';
+
+@import 'base';
+
+// header
+
+@import './header/page-nav';
+@import './header/page-header';
+@import './header/logo';
+@import './header/content-search-block';
+@import './header/button-clear-serch-output';
+
+//main
+@import './main/page-main';
+
+//news-item
+@import './main/countri-item';
+//footer
+@import './footer/page-footer';
+@import './footer/social-button';

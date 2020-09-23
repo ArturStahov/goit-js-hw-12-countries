@@ -1,0 +1,12 @@
+.button-clear-serch-output {
+  width: 60px;
+  height: 30px;
+  background-color: $button-output-color;
+  border: none;
+  border-radius: 20px;
+  @include font-settings(0.8rem, 1.2, 700, $fourth-font-color);
+  text-transform: uppercase;
+  margin-right: 5px;
+  outline: none;
+  cursor: pointer;
+}

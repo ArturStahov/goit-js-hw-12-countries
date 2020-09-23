@@ -1,0 +1,23 @@
+.page-nav {
+  // background-color: $second-background-color;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-link {
+  @include font-settings(0.875rem, 1.714, 600, $third-font-color);
+  text-transform: uppercase;
+}
+
+.nav-item {
+  &:not(:last-child) {
+    margin-right: 5px;
+  }
+}
+
+.md-margin {
+  margin-bottom: 15px;
+}
