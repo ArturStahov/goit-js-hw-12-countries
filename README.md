@@ -1,8 +1,8 @@
-## **Countries Serch v1.0**
+## **Countries Search v1.0**
 
 ### application functionality:
 
-- serch Countries
+- search Countries
 - adaptive web design
 - worck with RESTful API
 
@@ -15,6 +15,7 @@
 - SCSS
 
 ### plugins used :
+
 - https://sciactive.com/pnotify/
 - https://restcountries.eu/
 - https://www.npmjs.com/package/lodash.debounce

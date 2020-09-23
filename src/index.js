@@ -9,7 +9,7 @@ const refs = {
 }
 
 const hundlerUserInput = (event) => {
-    fethCounterAPI.serch(event.target.value)
+    fethCounterAPI.search(event.target.value)
 }
 
 const hundlerButtonClearOutput = () => {
